@@ -1,6 +1,6 @@
 # Tarea: Implementación de Constructores y Destructores en Python
-# Autor: [Tu Nombre]
-# Fecha: [Fecha]
+# Autor: Kevim Galan
+# Fecha: 13/07/2025
 
 class Recurso:
     """
